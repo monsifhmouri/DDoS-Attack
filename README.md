@@ -42,3 +42,5 @@ Your responsibility.
 100% your call.
 
 "Don't forget to leave user-agents.txt and proxies.txt in the same folder as the tool so that it works correctly and you don't get detected immediately u beast"
+
+This project is for educational purposes only.
